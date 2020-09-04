@@ -1,5 +1,5 @@
 # formulario
-<form action="formulario.php" method="get">
+<form action="formulario.php" method="g">
     <H1 align="center"> FORMULARIO </H1>
   <p>Matricula: <input type="text" mat="matricula" size="40"></p>
   <p>Nombre: <input type="text" name="nombre" size="40"></p>
@@ -13,3 +13,4 @@
   </p>
   <p>Estado: <input type="text" est="estado" size="40"></p>
   <input type="submit" value="Guardar">
+et
